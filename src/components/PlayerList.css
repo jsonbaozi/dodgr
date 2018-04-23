@@ -1,5 +1,4 @@
-.player-list-list {
-  display: flex;
-  text-align: left;
-  flex-flow: column;
+.player-list-container {
+  width: 90%;
+  margin: 0 auto;
 }
