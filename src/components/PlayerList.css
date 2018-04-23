@@ -1,0 +1,5 @@
+.player-list-list {
+  display: flex;
+  text-align: left;
+  flex-flow: column;
+}
